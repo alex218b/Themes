@@ -119,8 +119,8 @@
             "#81b6ef"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#0a2848",
-            "#dcddde",
+            "#000000",
+            "#000000",
             "#000000"
         ],
         "DEPRECATED_CARD_BG": [
@@ -204,9 +204,9 @@
             "#000000"
         ],
         "HEADER_PRIMARY": [
-            "#dcddde",
-            "#0a2848",
-            "#dcddde"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "HEADER_SECONDARY": [
             "#2780E6",
